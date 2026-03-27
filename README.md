@@ -35,7 +35,7 @@ Ingeniero egresado de la **UADY** especializado en la integración profunda entr
 
 ---
 
-## 🔬 Roadmap de Proyectos Técnicos
+## 🔬 Showcase de Ingeniería
 | Proyecto | Áreas Cubiertas | Stack Principal | Estado |
 | :--- | :--- | :--- | :--- |
 | **Modelado Térmico Sustentable** | CFD, Sustentabilidad, LaTeX | OpenFOAM, R, Octave | **Finalizado** |
@@ -46,13 +46,13 @@ Ingeniero egresado de la **UADY** especializado en la integración profunda entr
 
 ## 🌐 Idiomas & Soft Skills
 - 🇲🇽 **Español:** Nativo.
-- 🇺🇸 **Inglés:** Intermedio (B1/B2 - Capaz de leer y redactar documentación técnica).
+- 🇺🇸 **Inglés:** Intermedio (B1/B2 - Documentación técnica y lectura fluida).
 - 🧠 **Pensamiento Estratégico:** Jugador de Ajedrez ♟️ enfocado en resolución de problemas complejos.
 - 🐈 **Trabajo en Equipo:** Adaptabilidad y enfoque en resultados (con supervisión felina).
 
 ---
 
-## 🔭 Actualmente Explorando
+## 🔭 Roadmap de Aprendizaje
 - 📱 **Desarrollo Mobile:** Android Apps nativas.
 - 💻 **Nuevos Lenguajes:** Java y Pascal.
 
