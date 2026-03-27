@@ -3,7 +3,7 @@
 
 <img src="https://img1.picmix.com/output/stamp/normal/4/4/5/4/604544_3dbbc.gif" align="right" width="160" alt="Miku Dancing">
 
-Estudiante de Ingenieria en **UADY** con un perfil enfocado en: Hardware, Software y Ciencia. Me especializo en la creación de sistemas desde el nivel físico (diseño de circuitos y esquemas) hasta la capa de inteligencia artificial y modelados.
+Ingeniero egresado de la **UADY** con un perfil híbrido: Hardware, Software y Ciencia. Me especializo en la creación de sistemas desde el nivel físico (circuitos y esquemas) hasta la capa de inteligencia artificial y modelado térmico.
 
 > **⚡ Regla de oro:** Si una tarea toma más de 5 minutos, probablemente ya escribí un script para reducirlo a segundos.
 
@@ -11,34 +11,43 @@ Estudiante de Ingenieria en **UADY** con un perfil enfocado en: Hardware, Softwa
 
 ## 🛠️ Mi Arsenal Tecnológico
 
-### 🚀 Electrónica & Sistemas Embebidos (Low Level)
-- **Microcontroladores:** Amplia experiencia con **PICs (Microchip)**, **ESP32**, **ESP8266** y **Raspberry Pi**.
-- **Diseño de Circuitos:** Creación, lectura y diseño de esquemas eléctricos y electrónicos.
-- **Lógica Digital:** Diseño y síntesis en **FPGAs** utilizando **Verilog**.
-- **Lenguajes de Máquina:** Programación en **C/C++** y **Assembly** para optimización de recursos.
-- **Domótica:** Implementación avanzada con **ESPHome**, **YAML** y **Home Assistant**.
+### 🚀 Lenguajes & Lógica (Visual Badge Stack)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Assembly](https://img.shields.io/badge/Assembly-2C3E50?style=for-the-badge&logo=microchip&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-8E44AD?style=for-the-badge&logo=cpu&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### 🧠 Inteligencia Artificial & Computación Científica
-- **IA & Data Science:** Aplicación de algoritmos de inteligencia artificial y análisis en **Python**, **R** y **Jupyter**.
-- **Física Aplicada:** Modelado de sistemas físicos y termodinámicos.
-- **Simulación CFD:** Experto en **OpenFOAM** para análisis de fluidos y energías sustentables.
-- **Cálculo Numérico:** Dominio de **Octave** para procesamiento de señales y modelos matemáticos.
+### 🧠 Inteligencia Artificial, Ciencia & Simulación
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenFOAM](https://img.shields.io/badge/openfoam-%23212121.svg?style=for-the-badge&logo=openfoam&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+- **Cálculo Numérico:** Experto en **Octave** y **R** para modelos matemáticos y señales.
+- **Data Science:** Aplicación avanzada de IA en **Python** para optimización física.
+- **Divulgación:** Redacción de reportes científicos de alta fidelidad.
 
-### 💻 Software & Herramientas de Ingeniería
-- **Lenguajes:** **Python, C/C++, PHP, HTML.**
-- **Análisis de Datos:** **Excel Avanzado** (Macros y procesamiento de datos técnicos).
-- **Documentación:** Redacción técnica profesional en **LaTeX**.
-- **Infraestructura:** **Linux (Power User)**, Redes y Ciberseguridad.
-- **Diseño 3D:** **Fusion 360** y **SketchUp** para prototipado mecánico y carcasas.
+### 🔌 Electrónica & Sistemas Embebidos (Hardware Stack)
+- **Sistemas Robustos:** Experiencia con **PICs (Microchip)**, **ESP32**, **ESP8266** y **Raspberry Pi**.
+- **Diseño de Hardware:** Creación, lectura y diseño completo de esquemas electrónicos.
+- **Lógica Digital:** Diseño en **FPGAs** para optimización de recursos.
+- **Domótica:** Automatización profesional con **Home Assistant** e integración avanzada de nodos.
+
+### 🎨 Diseño 3D & Herramientas de Ingeniería
+- **Mecánica:** Prototipado funcional en **Fusion 360** y **SketchUp**.
+- **Análisis de Datos:** **Excel Avanzado** (Macros y procesamiento técnico).
+- **Infraestructura:** **Linux (Power User)** y Ciberseguridad IoT.
 
 ---
 
 ## 🔬 Showcase de Ingeniería
 | Proyecto | Áreas Cubiertas | Stack Principal |
 | :--- | :--- | :--- |
-| **Modelado Térmico Sustentable** | Física, CFD, LaTeX | OpenFOAM, R, Octave |
-| **Diseño de Hardware IoT** | Electrónica, Circuitos, C++ | ESP32, KiCad, PICs |
-| **Optimización con IA** | Inteligencia Artificial, Data | Python, Jupyter, Scikit-learn |
+| **Modelado Térmico** | Física, CFD, LaTeX | OpenFOAM, R, Octave, LaTeX |
+| **Hardware IoT Custom** | Electrónica, C++ | ESP32, KiCad, PICs, C++ |
+| **Optimización con IA** | IA, Ciencia de Datos | Python, Jupyter, Scikit-learn, Jupyter |
 
 ---
 
@@ -50,21 +59,5 @@ Estudiante de Ingenieria en **UADY** con un perfil enfocado en: Hardware, Softwa
 
 ---
 
-## 🔭 Actualmente Explorando
-- 📱 **Desarrollo Mobile:** Android Apps nativas.
-- 💻 **Nuevos Lenguajes:** Java y Pascal.
-
----
-
-## 💻 My Daily Driver & Life
-| Categoría | Preferencia |
-| :--- | :--- |
-| **OS / Shell** | Linux (Debian/Ubuntu) 🐧 |
-| **Bebida** | Café cargado o un buen Té ☕🍃 |
-| **Vibe** | Hatsune Miku 🎤 y Gatos 🐈 |
-
----
-
 ## 📫 Conectemos
-¿Interesado en circuitos, IA o una partida de ajedrez?
 [📩 Envíame un correo](mailto:caamalayala8@gmail.com)
