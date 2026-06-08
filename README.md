@@ -1,7 +1,7 @@
 # Hola, soy Jose Caamal 👋 
 ### Ingeniero en Computación | IoT & Embedded Systems | Electronic Design & AI
 
-<img src="https://img1.picmix.com/output/stamp/normal/4/4/5/4/604544_3dbbc.gif" align="right" width="160" alt="Miku Dancing">
+<img src="" align="right" width="160" alt="Miku Dancing">
 
 Estudiante en Ingenieria de Computacion en la **UADY** con un perfil en: Hardware, Software y Ciencia. Me especializo en la creación de sistemas desde el nivel físico (circuitos y esquemas) hasta la capa de inteligencia artificial y modelados.
 
