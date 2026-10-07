@@ -4,7 +4,7 @@
 
 
 Estudiante en Ingenieria de Computacion en la **UADY** con un perfil en: Hardware, Software y Ciencia. Me especializo en la creación de sistemas desde el nivel físico (circuitos y esquemas) hasta la capa de inteligencia artificial y modelados.
-
+https://github.com/JoseLucianoCaamal/JoseLucianoCaamal/blob/main/README.md
 > **⚡ Regla de oro:** Si una tarea toma más de 5 minutos, probablemente ya escribí un script para reducirlo a segundos.
 
 ---
@@ -74,4 +74,4 @@ Estudiante en Ingenieria de Computacion en la **UADY** con un perfil en: Hardwar
 
 ## 📫 Conectemos
 ¿Interesado en circuitos, IA o una partida de ajedrez?
-[📩 Envíame un correo](mailto:caamalayala8@gmail.com)
+[📩 Envíame un correo](mailto:joselucianocaamalayala@gmail.com)
